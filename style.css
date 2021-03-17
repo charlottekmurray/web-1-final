@@ -413,6 +413,10 @@ hr {
     align-items: center;
   }
   
+  .bottomBar {
+    margin: 3% 20% 3% 20%;
+  }
+  
 .bottomBar svg
 {
   margin: 0;
