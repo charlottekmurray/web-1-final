@@ -11,6 +11,10 @@ nav {
   height: 700px;
 }
 
+nav img{
+  width: 100px;
+}
+
 .topBar {
   display: flex;
   justify-content: flex-end;
