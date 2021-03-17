@@ -91,6 +91,15 @@ li {
   color: black;
   padding: 0;
 }
+
+li a{
+  line-height: 1.7em;
+  text-shadow: none;
+  font-size: 12pt;
+  font-family: "Open Sans", sans-serif;
+  color: #f4b132;
+}
+
 a {
   font-family: "Bebas Neue", cursive;
   font-size: 20pt;
