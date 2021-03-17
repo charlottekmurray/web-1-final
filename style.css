@@ -253,7 +253,16 @@ hr {
   }
 
   nav h1 {
-    margin-top: 135px;
+    margin-top: 140px;
+  }
+  
+  nav img{
+    width: 80px;
+    padding-bottom: 20px;
+  }
+  
+  .topBar {
+    padding-top: 10px;
   }
 
   .topBar a {
@@ -281,13 +290,24 @@ hr {
   }
 
   nav h1 {
-    margin-top: 100px;
+    margin-top: 125px;
   }
+  
+  .topBar {
+    padding-top: 8px;
+  }
+  
+  nav img{
+    width: 60px;
+    padding-bottom: 17px;
+  }
+  
 
   .topBar a {
     margin-top: 20px;
     font-size: 12pt;
     align-self: center;
+    
   }
 
   .topBar svg {
@@ -388,3 +408,4 @@ hr {
     font-size: 12pt;
   }
 }
+
