@@ -139,7 +139,7 @@ hr {
   display: flex;
   justify-content: space-evenly;
   align-items: center;
-  margin: 5px 25% 5px 25%;
+  margin: 3% 25% 3% 25%;
 }
 
 .bottomBar a {
@@ -314,7 +314,7 @@ hr {
 
   .topBar a {
     margin-top: 20px;
-    font-size: 12pt;
+    font-size: 15pt;
     align-self: center;
     
   }
@@ -417,10 +417,10 @@ hr {
 {
   margin: 0;
   padding: 0;
-  width: 20px;
+  width: 25px;
 }
   .bottomBar a {
-    font-size: 12pt;
+    font-size: 15pt;
   }
 }
 
