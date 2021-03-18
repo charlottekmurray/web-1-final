@@ -224,6 +224,11 @@ hr {
   opacity: 1;
 }
 
+.img video:hover {
+  box-shadow: none;
+  opacity: 1;
+}
+
 .close {
   display: block;
   position: absolute;
