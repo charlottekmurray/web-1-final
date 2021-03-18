@@ -404,6 +404,9 @@ hr {
     /* Translucent background */
     background: rgba(0, 0, 0, 0.8);
   }
+  .lightbox img{
+    box-shadow: none;
+  }
   
   .lightbox video{
     box-shadow: none;
