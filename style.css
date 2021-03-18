@@ -404,6 +404,10 @@ hr {
     /* Translucent background */
     background: rgba(0, 0, 0, 0.8);
   }
+  
+  .lightbox video{
+    box-shadow: none;
+  }
 
   /* Unhide the lightbox when it's the target */
   .lightbox:target {
